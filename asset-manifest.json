@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Together-App/static/css/main.6a497598.chunk.css",
+    "main.js": "/Together-App/static/js/main.c523b90e.chunk.js",
+    "main.js.map": "/Together-App/static/js/main.c523b90e.chunk.js.map",
+    "runtime-main.js": "/Together-App/static/js/runtime-main.671901bb.js",
+    "runtime-main.js.map": "/Together-App/static/js/runtime-main.671901bb.js.map",
+    "static/css/2.f83b9687.chunk.css": "/Together-App/static/css/2.f83b9687.chunk.css",
+    "static/js/2.87929ed5.chunk.js": "/Together-App/static/js/2.87929ed5.chunk.js",
+    "static/js/2.87929ed5.chunk.js.map": "/Together-App/static/js/2.87929ed5.chunk.js.map",
+    "index.html": "/Together-App/index.html",
+    "static/css/2.f83b9687.chunk.css.map": "/Together-App/static/css/2.f83b9687.chunk.css.map",
+    "static/css/main.6a497598.chunk.css.map": "/Together-App/static/css/main.6a497598.chunk.css.map",
+    "static/js/2.87929ed5.chunk.js.LICENSE.txt": "/Together-App/static/js/2.87929ed5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.671901bb.js",
+    "static/css/2.f83b9687.chunk.css",
+    "static/js/2.87929ed5.chunk.js",
+    "static/css/main.6a497598.chunk.css",
+    "static/js/main.c523b90e.chunk.js"
+  ]
+}
